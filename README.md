@@ -1,2 +1,2 @@
 # git-cmd-test
->first commit to mytest
+>first commit to mytest, modifying form master
